@@ -1,4 +1,1 @@
-KonatoK.github.io
-=================
-
-Github Pages
+dev.mandarinacorp.com
